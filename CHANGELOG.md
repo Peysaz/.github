@@ -2,6 +2,12 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 4.1.0 — 2026-10-07
+
+### Stock
+
+- Warehouses can be counted shelf by shelf, with each difference posted to stock in one step and the expected quantities hidden from whoever does the counting.
+
 ## 4.0.0 — 2026-10-07
 
 ### Ordering

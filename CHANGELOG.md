@@ -8,6 +8,11 @@ What changed in Peysaz for the people who use it. Newest first.
 
 - Orders are now invoiced when payment is due — on delivery, or earlier for prepaid and pay-on-arrival orders — so an order can still be adjusted while it is on the way.
 
+### Behind the scenes
+
+- Every business's data is backed up automatically, encrypted, and test-restored every week.
+- Every business on Peysaz runs in its own isolated environment, with its data kept apart from every other business.
+
 ## 4.1.0 — 2026-10-07
 
 ### Stock

@@ -2,6 +2,12 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 4.2.0 — 2026-10-08
+
+### Invoicing & payments
+
+- Orders are now invoiced when payment is due — on delivery, or earlier for prepaid and pay-on-arrival orders — so an order can still be adjusted while it is on the way.
+
 ## 4.1.0 — 2026-10-07
 
 ### Stock

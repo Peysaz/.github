@@ -25,8 +25,9 @@ hear when it is.
 
 ---
 
-### What's new: 4.1.0 (2026-10-07)
+### What's new: 4.2.0 (2026-10-08)
 
+- Orders are invoiced when payment is due, so an order can still be adjusted while it is on the way.
 - Warehouse stock counts: count the shelves, post every difference to stock in one step, and keep the expected quantities hidden from whoever counts.
 - Customers give a delivery address before placing an order, and every order line can choose the location it ships from.
 - A step-by-step composer for customer messages and price announcements, with an exact preview of who receives what.

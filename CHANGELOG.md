@@ -2,6 +2,12 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 4.3.0 — 2026-10-09
+
+### Ordering
+
+- Operators see how much each order earns over its stock cost while they write it and in the orders list, and saving an order below the minimum first asks them for a reason.
+
 ## 4.2.0 — 2026-10-08
 
 ### Invoicing & payments

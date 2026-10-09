@@ -25,8 +25,9 @@ hear when it is.
 
 ---
 
-### What's new: 4.2.0 (2026-10-08)
+### What's new: 4.3.0 (2026-10-09)
 
+- See how much each order earns over its stock cost while you write it and in the orders list, with a reason asked before saving an order below the minimum.
 - Orders are invoiced when payment is due, so an order can still be adjusted while it is on the way.
 - Your data is backed up automatically, encrypted, and test-restored every week, and each business runs in its own isolated environment.
 - Warehouse stock counts: count the shelves, post every difference to stock in one step, and keep the expected quantities hidden from whoever counts.

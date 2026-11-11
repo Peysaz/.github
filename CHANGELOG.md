@@ -2,6 +2,42 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 5.0.0 — 2026-11-11
+
+### Ordering
+
+- Customers now see the products they order most often on their dashboard, and one tap opens a new order with that product and its usual quantity filled in.
+- Drivers and customers now open the dashboard to their own day: the load in hand with the cash to collect and what is left today, or the order waiting for payment, the delivery on its way and the account balance.
+
+### Invoicing & payments
+
+- Each business can now choose at which order steps its customer invoices are issued, and an invoice amount must be greater than zero.
+- The home page now shows your balance as your statement, and the amount takes the same colour as its owed or in-credit badge.
+
+### Notifications
+
+- A broadcast limited to active customers can now also reach everyone who joined recently, within a join window you choose.
+- Broadcasts skip blocked people and unverified numbers, and the preview shows who is left out and why.
+- Delivery messages to drivers now greet each driver by title and full name.
+- Price announcements can go to just the customers you choose by how active they are. Pick a time window and a range, such as the top 30% or from the top 10% to the top 40%, and see who receives it and why.
+
+### Accounts & security
+
+- Staff set an account to active, suspended or blocked from one control on the user page, and the users list shows and filters by that state.
+- A suspended person can still sign in but cannot place new orders, and staff cannot book new orders for them either.
+- Blocking a person keeps new orders and deliveries off them, and the reason and every past block stay on record. A blocked person receives no broadcasts or automatic messages, and on signing in sees only that the account is blocked, how to reach support and, for a customer, their balance. Integrations that sign people in must handle this new blocked state.
+- Deleting a customer now clears their personal details and signs them out everywhere, while their payment history stays on record.
+
+### Operator tools
+
+- The home page now shows staff what is waiting on them, today's orders and deliveries, the latest orders, on-time delivery and recent activity, for a period they choose.
+- The integrity page now also checks stored user accounts, phone numbers, notification settings and sent notifications, and lists every one that breaks a rule.
+- The orders, invoices, deliveries, notifications and products lists now let you choose how many rows a page shows, with the page controls above and below the table.
+
+### Behind the scenes
+
+- The panel now runs on the latest security releases of the software it is built on.
+
 ## 4.3.0 — 2026-10-09
 
 ### Ordering

@@ -25,15 +25,13 @@ hear when it is.
 
 ---
 
-### What's new: 4.3.0 (2026-10-09)
+### What's new: 5.0.0 (2026-11-11)
 
-- See how much each order earns over its stock cost while you write it and in the orders list, with a reason asked before saving an order below the minimum.
-- Orders are invoiced when payment is due, so an order can still be adjusted while it is on the way.
-- Your data is backed up automatically, encrypted, and test-restored every week, and each business runs in its own isolated environment.
-- Warehouse stock counts: count the shelves, post every difference to stock in one step, and keep the expected quantities hidden from whoever counts.
-- Customers give a delivery address before placing an order, and every order line can choose the location it ships from.
-- A step-by-step composer for customer messages and price announcements, with an exact preview of who receives what.
-- Management reports that trace order and delivery totals down to the products and customers behind them.
-- Stock tracking with damaged, quality-control and safety-stock quantities, and a reason on every adjustment.
+- A home page for each role: drivers see their load and the cash to collect, customers see their open order, delivery and balance, and staff see what is waiting on them today.
+- Order again in one tap: your most frequent products, with the usual quantity filled in.
+- Set any account to active, suspended or blocked from one control, with every block and its reason kept on record. Integrations that sign people in must handle the new blocked state.
+- Send price announcements by how active your customers are, reach people who joined recently, and see exactly who receives each message and why.
+- Choose at which order steps your customer invoices are issued.
+- Choose how many rows each main list shows.
 
 **[Full changelog →](https://github.com/Peysaz/.github/blob/main/CHANGELOG.md)**

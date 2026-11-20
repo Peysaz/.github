@@ -25,13 +25,13 @@ hear when it is.
 
 ---
 
-### What's new: 5.0.0 (2026-11-11)
+### What's new: 6.0.0 (2026-11-20)
 
-- A home page for each role: drivers see their load and the cash to collect, customers see their open order, delivery and balance, and staff see what is waiting on them today.
-- Order again in one tap: your most frequent products, with the usual quantity filled in.
-- Set any account to active, suspended or blocked from one control, with every block and its reason kept on record. Integrations that sign people in must handle the new blocked state.
-- Send price announcements by how active your customers are, reach people who joined recently, and see exactly who receives each message and why.
-- Choose at which order steps your customer invoices are issued.
-- Choose how many rows each main list shows.
+- A calmer delivery screen for drivers: a note written just for them, the weather at the destination, the main button always in reach, and a few seconds to take back a mistaken tap.
+- Charts under the main lists that understand each column: totals, averages and shares, Persian calendar months, this period against the last, and only the rows you select. Payments and customer balances get them too.
+- Manage access as named permission packs shared by many roles. See who gains or loses what before you save, and keep a record of every change.
+- Roles get a searchable list and a single editor, with capabilities grouped by area.
+- Redesigned product category pages. The products list tucks unavailable products away and shows how many orders each product received recently.
+- Products no longer carry the retired warehouse capacity value. Integrations that still read it must use the maximum purchase quantity instead.
 
 **[Full changelog →](https://github.com/Peysaz/.github/blob/main/CHANGELOG.md)**

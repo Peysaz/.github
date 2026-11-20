@@ -2,6 +2,36 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 6.0.0 — 2026-11-20
+
+### Delivery
+
+- An order can now carry a note written just for the driver, which the driver sees on the delivery screen once the load is on board and which also shows on the transportation list.
+- The driver's delivery screen keeps its main button in reach on any phone, shows the day the customer asked for and the full load list, asks before a load is marked returned, and can call support straight from its problem button.
+- The driver's delivery screen now always shows the weather at the destination until the deadline, as one short line on a calm day and in full when a warning is coming.
+- The driver's delivery screen now waits a few seconds after each step is tapped, with a countdown and a cancel button, so a mistaken tap can be taken back before it is recorded.
+
+### Reporting
+
+- The charts under the list pages can now draw a share as a ring, rank the few groups behind most of a total, compare this period with the same days of the last one, count every value of a list column, show the amount beside each percent, chart order quantities in their own unit, and appear on the payments page too.
+- The charts under the list pages now understand each column, so they total amounts, average prices and percentages, group by Persian calendar months, follow the rows you select, open with a one-line summary, and let you switch between the chart types that fit the data.
+- The per-customer balances list now has the same chart under the table as the orders and payments lists, opening on how much is owed each way.
+
+### Accounts & security
+
+- Access can now be managed as named packs of permissions shared by many roles, with a preview of who gains or loses what before a change is saved, and a record of every access change.
+
+### Platform API
+
+- Products no longer carry the retired warehouse capacity value, so integrations that still read it must use the maximum purchase quantity instead.
+
+### Operator tools
+
+- Deleting a product category or subcategory now shows what still uses it before anything is removed, and an empty one takes its storefront page details with it.
+- Roles now have a searchable list like the users and orders pages, and one editor for creating and changing a role, with its capabilities grouped by area, searchable, and selectable a whole group at a time.
+- The product category and subcategory pages are redesigned, with item counts, image status, a category filter, and each one's storefront page details on its own page.
+- The products list now tucks unavailable products into a fold at the end of each group and shows how many orders each product received in the last 90 days.
+
 ## 5.0.0 — 2026-11-11
 
 ### Ordering

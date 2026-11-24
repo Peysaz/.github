@@ -2,6 +2,27 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 6.2.0 — 2026-11-24
+
+### Products & pricing
+
+- The list now opens with the most ordered products first and shows 100 rows per page.
+
+### Delivery
+
+- Staff can now see an order's delivery code, whether it went out and whether the driver entered it, and send it again by hand, on both the order and the transport pages, each with its own permission.
+- The customer's delivery code can now go out at a chosen stage of the delivery and can travel inside the order's status message, and staff see the progress and result when they turn it on or off.
+
+### Notifications
+
+- Operators can now see what the SMS provider answered for each text message, and whether it was accepted.
+- With several panel tabs open, each message result now shows once, in the tab you are looking at.
+
+### Operator tools
+
+- Admins can open a customer's ledger and an order's transactions straight from the order page.
+- The users list now shows at a glance which people have switched newsletter messages off, and which ones.
+
 ## 6.1.0 — 2026-11-22
 
 ### Stock

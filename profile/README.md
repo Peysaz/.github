@@ -25,16 +25,12 @@ hear when it is.
 
 ---
 
-### What's new: 6.1.0 (2026-11-22)
+### What's new: 6.2.0 (2026-11-24)
 
-- Restoring an order to an earlier version now brings its stock along. Delivered units the restored version no longer has go back on the shelf, and the restore saves fully or not at all.
-- Staff can now choose per order whether the customer's delivery code is required, starting from a default for new orders.
-- A message sent by hand now says plainly whether it went out or why it did not, and login codes and password-reset links are recorded in the messages list.
-- Every order and delivery message now shows who sent it, and a driver's urgent message reaches every dispatch phone.
-- Every payment message now shows who sent it: the staff member, the paying customer or the system.
-- Invoice, low-stock and support messages now show who triggered them, and a failed one stays in the messages list with its reason.
-- Staff now see a toast with the result of the messages their own actions send, and a message stopped by a customer's settings shows as blocked in the message list.
-- Every list table now comes with a refresh button, a grouping menu and a chart of its figures.
-- Dashboard pages load faster on slow mobile connections.
+- The products list now opens with the most ordered products first and shows 100 rows per page.
+- Staff can see an order's delivery code, whether it went out and whether the driver entered it, and send it again by hand from the order or transport page. The code can go out at a chosen stage of the delivery, inside the order's status message.
+- Operators can see what the SMS provider answered for each text message, and whether it was accepted.
+- Admins can open a customer's ledger and an order's transactions straight from the order page.
+- The users list shows at a glance who has switched newsletter messages off.
 
 **[Full changelog →](https://github.com/Peysaz/.github/blob/main/CHANGELOG.md)**

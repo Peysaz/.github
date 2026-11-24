@@ -25,13 +25,16 @@ hear when it is.
 
 ---
 
-### What's new: 6.0.0 (2026-11-20)
+### What's new: 6.1.0 (2026-11-22)
 
-- A calmer delivery screen for drivers: a note written just for them, the weather at the destination, the main button always in reach, and a few seconds to take back a mistaken tap.
-- Charts under the main lists that understand each column: totals, averages and shares, Persian calendar months, this period against the last, and only the rows you select. Payments and customer balances get them too.
-- Manage access as named permission packs shared by many roles. See who gains or loses what before you save, and keep a record of every change.
-- Roles get a searchable list and a single editor, with capabilities grouped by area.
-- Redesigned product category pages. The products list tucks unavailable products away and shows how many orders each product received recently.
-- Products no longer carry the retired warehouse capacity value. Integrations that still read it must use the maximum purchase quantity instead.
+- Restoring an order to an earlier version now brings its stock along. Delivered units the restored version no longer has go back on the shelf, and the restore saves fully or not at all.
+- Staff can now choose per order whether the customer's delivery code is required, starting from a default for new orders.
+- A message sent by hand now says plainly whether it went out or why it did not, and login codes and password-reset links are recorded in the messages list.
+- Every order and delivery message now shows who sent it, and a driver's urgent message reaches every dispatch phone.
+- Every payment message now shows who sent it: the staff member, the paying customer or the system.
+- Invoice, low-stock and support messages now show who triggered them, and a failed one stays in the messages list with its reason.
+- Staff now see a toast with the result of the messages their own actions send, and a message stopped by a customer's settings shows as blocked in the message list.
+- Every list table now comes with a refresh button, a grouping menu and a chart of its figures.
+- Dashboard pages load faster on slow mobile connections.
 
 **[Full changelog →](https://github.com/Peysaz/.github/blob/main/CHANGELOG.md)**

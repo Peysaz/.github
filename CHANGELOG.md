@@ -2,6 +2,32 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 6.1.0 — 2026-11-22
+
+### Stock
+
+- Restoring an order to an earlier version now brings its stock along. Delivered units the restored version no longer has go back on the shelf, and the restore saves fully or not at all.
+
+### Delivery
+
+- Staff can now choose per order whether the customer's delivery code is required, starting from a default for new orders.
+
+### Notifications
+
+- A message sent by hand now says plainly whether it went out or why it did not, and login codes and password-reset links are recorded in the messages list.
+- Every order and delivery message now shows who sent it, and a driver's urgent message reaches every dispatch phone.
+- Every payment message now shows who sent it: the staff member, the paying customer or the system.
+- Invoice, low-stock and support messages now show who triggered them, and a failed one stays in the messages list with its reason.
+- Staff now see a toast with the result of the messages their own actions send, and a message stopped by a customer's settings shows as blocked in the message list.
+
+### Operator tools
+
+- Every list table now comes with a refresh button, a grouping menu and a chart of its figures.
+
+### Behind the scenes
+
+- Dashboard pages load faster on slow mobile connections.
+
 ## 6.0.0 — 2026-11-20
 
 ### Delivery

@@ -2,6 +2,12 @@
 
 What changed in Peysaz for the people who use it. Newest first.
 
+## 6.3.0 — 2026-11-25
+
+### Ordering
+
+- Restoring an earlier version of an order now keeps its invoice, delivery date and driver payout in step, by asking the operator to move the status first whenever the version sits at another stage.
+
 ## 6.2.0 — 2026-11-24
 
 ### Products & pricing

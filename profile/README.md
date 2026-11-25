@@ -25,12 +25,8 @@ hear when it is.
 
 ---
 
-### What's new: 6.2.0 (2026-11-24)
+### What's new: 6.3.0 (2026-11-25)
 
-- The products list now opens with the most ordered products first and shows 100 rows per page.
-- Staff can see an order's delivery code, whether it went out and whether the driver entered it, and send it again by hand from the order or transport page. The code can go out at a chosen stage of the delivery, inside the order's status message.
-- Operators can see what the SMS provider answered for each text message, and whether it was accepted.
-- Admins can open a customer's ledger and an order's transactions straight from the order page.
-- The users list shows at a glance who has switched newsletter messages off.
+- Restoring an earlier version of an order now keeps its invoice, delivery date and driver payout in step, by asking the operator to move the status first whenever the version sits at another stage.
 
 **[Full changelog →](https://github.com/Peysaz/.github/blob/main/CHANGELOG.md)**
